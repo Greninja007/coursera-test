@@ -89,14 +89,12 @@ p {
  }
  @media (min-width: 992px){
 .sapadu{
-	padding-left: 47%;
-	padding-right: 50px;
+	padding-left: 43%;
 }
 }
 @media (min-width: 768px) and (max-width: 991px){
 	.sapadu{
 	padding-left: 44%;
-	padding-right: 50%;
 }
 }
 @media(max-width: 767px){
